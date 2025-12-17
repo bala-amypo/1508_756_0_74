@@ -3,5 +3,5 @@ import java.util.List;
 import com.example.demo.entity.LocationEntity;
 public interface LocationService {
      LocationEntity createlocation(LocationEntity location);
-      List&lt;LocationEntity&gt; getalllocation();
+      List;LocationEntity; getalllocation();
 }
